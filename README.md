@@ -9,9 +9,15 @@
 
 ![image](https://github.com/user-attachments/assets/26f491e8-2e33-4596-adbb-f05b0eadb427)
 
-Создание сети связанных заметок:
+## Создание сети связанных заметок
 
-![image](https://github.com/user-attachments/assets/e9a9c1fc-f2be-4de5-82cb-063e847e8134)
+Пример заметки (с тегами и связанными темами):
+
+![image](https://github.com/user-attachments/assets/3d51e451-f4fd-47ac-a573-2e5e53daf602)
+
+Директория с заметками:
+
+![image](https://github.com/user-attachments/assets/c206b840-ce33-4710-8a60-1fc8502427ae)
 
 Граф без изолированных элементов:
 
