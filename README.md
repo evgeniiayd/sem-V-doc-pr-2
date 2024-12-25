@@ -13,3 +13,7 @@
 
 ![image](https://github.com/user-attachments/assets/e9a9c1fc-f2be-4de5-82cb-063e847e8134)
 
+Граф без изолированных элементов:
+
+![image](https://github.com/user-attachments/assets/f78fe627-111f-4ef5-9cb7-0809b76a1de1)
+
